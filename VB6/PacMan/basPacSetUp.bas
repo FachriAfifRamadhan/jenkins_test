@@ -1,6 +1,6 @@
 Attribute VB_Name = "basSetUp"
 Option Explicit
-
+'test
 Public Enum BitbltOps   ' For bitblt function
     SRCCOPY = &HCC0020  ' Dest = Source
      SRCAND = &H8800C6  ' Dest = Dest AND Source
