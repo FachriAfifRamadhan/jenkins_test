@@ -7,7 +7,7 @@ Sub PacmanMovement()
   Dim nLoop As Integer
   Dim XD2 As Integer
   Dim YD2 As Integer
-  
+  'sasdafsdfsd
   ' make sure dotgone is turned off as pacman hasn't eaten any yet
   Pacman.DotGone = False
   

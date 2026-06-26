@@ -2,7 +2,7 @@ Attribute VB_Name = "basGhostAI"
 Option Explicit
 
 Sub AIGhostMonsters()
-
+'sdjgojsdbngojsd
   Dim HitWall As Boolean
   Dim XD2 As Integer
   Dim YD2 As Integer
